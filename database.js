@@ -1,10 +1,10 @@
 const db = require("mysql2-promise")();
 
 database = {
-  host     : "sql811.main-hosting.eu",
-  database : "u748790910_Credentials",
-  user     : "u748790910_Credentials",
-  password : "Credentials123",
+  host     : "",
+  database : "",
+  user     : "",
+  password : "",
   port:      3306
 }
 
